@@ -1,0 +1,5 @@
+c:\users\mochammad alauddin\documents\visual studio 2012\Projects\HelloWord\HelloWord\bin\HelloWord.dll
+c:\users\mochammad alauddin\documents\visual studio 2012\Projects\HelloWord\HelloWord\bin\HelloWord.pdb
+c:\users\mochammad alauddin\documents\visual studio 2012\Projects\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+c:\users\mochammad alauddin\documents\visual studio 2012\Projects\HelloWord\HelloWord\obj\Debug\HelloWord.dll
+c:\users\mochammad alauddin\documents\visual studio 2012\Projects\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
